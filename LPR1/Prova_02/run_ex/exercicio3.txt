@@ -1,0 +1,4 @@
+Propriedades P1 -> Paciente: João | Medico: Dr. Roberto | Data: 10/11/24 | Hora: 14:30:0
+Propriedades P2 -> Paciente: Carlos | Medico: DR. Paulo | Data: 12/3/16 | Hora: 23:55:60
+Propriedades P1 (novo) -> Paciente: Pedro | Medico: Dr. Pedro | Data: 2/3/0 | Hora: 22:12:45
+Quantidade final de consultas: 2
